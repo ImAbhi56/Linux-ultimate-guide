@@ -168,6 +168,7 @@ docker run -d -p 8080:80 --name mynginx nginx
 * `--name mynginx` → Assign readable container name
 
 ---
+https://github.com/ImAbhi56/Linux-ultimate-guide/blob/7adfb43d91627694756f76000e30ed3658d392e2/docker%20run%20nginx.png 
 
 ###  Verify Running Container
 
