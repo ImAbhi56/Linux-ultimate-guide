@@ -212,6 +212,7 @@ https://github.com/ImAbhi56/Linux-ultimate-guide/blob/98e1092bb5818d265620f3661e
 docker stop mynginx
 docker rm mynginx
 ```
+https://github.com/ImAbhi56/Linux-ultimate-guide/blob/aee5c8fe864a18df7a9d8f142b0d455a7abf6605/docker%20file%20stop.png 
 
 This completed the container lifecycle.
 
