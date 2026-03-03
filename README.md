@@ -1,4 +1,4 @@
-# Linux-ultimate-guide
+# Linux Environment Set Up
 This consists of the begineer friendly guide to set up lux environment to the advanced devops level projects..
 #  DevOps Lab Setup: Windows → WSL2 → Ubuntu → Docker
 
