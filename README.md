@@ -185,6 +185,7 @@ Output showed port mapping:
 This confirmed that the container was accessible from Windows.
 
 ---
+https://github.com/ImAbhi56/Linux-ultimate-guide/blob/72758e89b21617c7a24a45eb98a71f1261d5cf5b/pulling%20nginx%20image.png 
 
 ###  Access From Browser
 
