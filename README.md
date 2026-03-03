@@ -204,6 +204,7 @@ This confirmed:
 * WSL ↔ Windows integration works
 
 ---
+https://github.com/ImAbhi56/Linux-ultimate-guide/blob/98e1092bb5818d265620f3661eacd69986e10567/Nginx%20running.png 
 
 ###  Stop and Remove Container
 
